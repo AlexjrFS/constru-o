@@ -1,0 +1,30 @@
+.img{
+margin-left: 21rem;
+margin-top: 3rem;
+width: 50%;
+}
+.h1{
+    text-align: center;
+
+}
+.div{
+    position: relative;
+    margin-left: 15rem;
+    display: inline-block;
+}
+.div h2{
+}
+#backgroud {
+    margin: 0;
+    padding: 0;
+    height: 99%;
+    width: 100%;
+    background: url('SOC.png') center/cover no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.principal{
+    display: inline-block;
+    position: relative;
+}
